@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Urbanus Kiko
+- 👋 Hi, I’m @Urbanus Kioko
 - 👀 I’m interested in cyrbersecurity and web development
 - 🌱 I’m currently learning  Java ,Javascript ,Html,CSS and Prolog
 - 💞️ I’m looking to collaborate on any web development  project.
