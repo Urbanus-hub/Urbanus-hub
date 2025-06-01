@@ -20,27 +20,7 @@
 
 ---
 
-## 🌌 Cosmic Inspiration
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&auto=format&fit=crop&w=700&q=80" alt="Aurora Borealis" width="500" style="border-radius: 25px; box-shadow: 0 8px 32px rgba(0,255,255,0.3);" />
-  <br/>
-  <em>🌈 "The universe is not only stranger than we imagine, it is stranger than we can imagine" ✨</em>
-</div>
-
-<div align="center" style="margin-top: 40px;">
-  <img src="https://images.unsplash.com/photo-1502134249126-9f3755a50d78?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Nebula Space" width="450" style="border-radius: 20px; box-shadow: 0 8px 32px rgba(138,43,226,0.4);" />
-  <br/>
-  <em>🚀 "We are all made of star stuff" - Carl Sagan 🌟</em>
-</div>
-
-<div align="center" style="margin-top: 40px;">
-  <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Ocean Waves at Sunset" width="400" style="border-radius: 20px; box-shadow: 0 8px 32px rgba(255,165,0,0.3);" />
-  <br/>
-  <em>🌊 "Be like water making its way through cracks" 💫</em>
-</div>
-
----
 
 ## 🎨 About Me
 
