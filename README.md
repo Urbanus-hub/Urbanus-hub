@@ -34,6 +34,8 @@ interface Developer {
   currentFocus: string;
   languages: string[];
   frameworks: string[];
+  backend: string[];
+  database: string[];
   tools: string[];
   interests: string[];
   contact: string;
@@ -42,12 +44,14 @@ interface Developer {
 const urbanus: Developer = {
   name: "Urbanus Kioko",
   location: "Nairobi, Kenya 🇰🇪",
-  role: ["Frontend Developer", "Backend Enthusiast", "UI/UX Lover"],
-  currentFocus: "Building scalable web applications",
+  role: ["Full Stack Developer", "Frontend Specialist", "Backend Enthusiast", "UI/UX Lover"],
+  currentFocus: "Building scalable full-stack web applications",
   languages: ["JavaScript", "TypeScript", "Java", "C"],
   frameworks: ["React", "Angular", "Tailwind CSS"],
-  tools: ["Git", "Docker", "VS Code"],
-  interests: ["Web Development", "Open Source", "Tech Innovation"],
+  backend: ["Node.js", "Express.js"],
+  database: ["PostgreSQL"],
+  tools: ["Git", "Docker", "VS Code", "Postman"],
+  interests: ["Full Stack Development", "API Development", "Open Source", "Tech Innovation"],
   contact: "urbanuskioko672@gmail.com"
 };
 ```
@@ -57,9 +61,9 @@ const urbanus: Developer = {
 
 | 🔭 **Currently Working On** | 🌱 **Learning** | 👯 **Looking to Collaborate** |
 |:---:|:---:|:---:|
-| Personal Portfolio & Web Apps | Advanced React Patterns | Open Source Projects |
+| Full Stack Web Apps & APIs | Advanced React & Node.js | Open Source Projects |
 | **💬 Ask Me About** | **📫 How to Reach Me** | **⚡ Fun Fact** |
-| JavaScript, React, Angular | urbanuskioko672@gmail.com | I debug with console.log! 😄 |
+| JavaScript, React, Angular, Node.js | urbanuskioko672@gmail.com | I debug with console.log! 😄 |
 
 </div>
 
@@ -88,12 +92,28 @@ const urbanus: Developer = {
 
 </div>
 
+### ⚙️ Backend Technologies
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=green)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=black)
+
+</div>
+
+### 🗄️ Databases
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=darkblue)
+
+</div>
+
 ### 🛠️ Tools & Platforms
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=red)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=blue)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=blue)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=orange)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
 
 </div>
@@ -249,11 +269,13 @@ macOS                    ███░░░░░░░░░░░░░░░�
 
 📱 Development Focus:
 Frontend                 ████████████████████   100%
-Backend                  ████████████░░░░░░░░   60%
+Backend                  ██████████████░░░░░░   70%
+Database                 ████████████░░░░░░░░   60%
 Mobile                   ████░░░░░░░░░░░░░░░░   20%
 
 🚴‍♂️ Life Balance:
 Coding                   ████████████████░░░░   80%
+API Development          ████████████░░░░░░░░   60%
 Cycling                  ██████████░░░░░░░░░░   50%
 Movies (Silicon Valley)  ████████░░░░░░░░░░░░   40%
 Reading (Atomic Habits)  ██████░░░░░░░░░░░░░░   30%
