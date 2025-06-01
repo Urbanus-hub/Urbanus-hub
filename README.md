@@ -1,84 +1,129 @@
-# <div align="center">👋 Hello World! I'm **Urbanus Kioko**</div>
+# <div align="center">🌟 Welcome to My Digital Universe! 🌟</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&width=440&lines=Frontend+Developer+from+Kenya;Passionate+about+Web+Development;Always+Learning+New+Technologies;Building+Amazing+User+Experiences" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Urbanus%20Kioko&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Kenya%20🇰🇪&descAlignY=55&descSize=18" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=urbanus-hub&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/urbanus-hub?label=Followers&style=for-the-badge&color=00d9ff" alt="GitHub Followers" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Passionate+Developer;💡+Creative+Problem+Solver;🌈+Tech+Enthusiast;✨+Always+Learning" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=urbanus-hub&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=urbanus-hub&label=Profile%20Views&color=blueviolet&style=for-the-badge&labelColor=ff6b6b" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/urbanus-hub?label=Followers&style=for-the-badge&color=orange&labelColor=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/urbanus-hub?label=Stars&style=for-the-badge&color=yellow&labelColor=green" alt="GitHub Stars" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=urbanus-hub&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 🚀 About Me
+## 🎨 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding GIF" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-```javascript
-const urbanus = {
-    location: "Kenya 🇰🇪",
-    role: "Frontend Developer",
-    currentFocus: "Building amazing web experiences",
-    learning: ["React", "Node.js", "TypeScript"],
-    hobbies: ["Coding", "Tech Blogging", "Open Source"],
-    askMeAbout: ["JavaScript", "Web Development", "UI/UX"],
-    reachMe: "urbanuskioko672@gmail.com"
+```typescript
+interface Developer {
+  name: string;
+  location: string;
+  role: string[];
+  currentFocus: string;
+  languages: string[];
+  frameworks: string[];
+  tools: string[];
+  interests: string[];
+  contact: string;
+}
+
+const urbanus: Developer = {
+  name: "Urbanus Kioko",
+  location: "Nairobi, Kenya 🇰🇪",
+  role: ["Frontend Developer", "Backend Enthusiast", "UI/UX Lover"],
+  currentFocus: "Building scalable web applications",
+  languages: ["JavaScript", "TypeScript", "Java", "C"],
+  frameworks: ["React", "Angular", "Tailwind CSS"],
+  tools: ["Git", "Docker", "VS Code"],
+  interests: ["Web Development", "Open Source", "Tech Innovation"],
+  contact: "urbanuskioko672@gmail.com"
 };
 ```
 
-### 🎯 Current Status
-- 🔭 **Working on:** Personal Portfolio Website
-- 🌱 **Learning:** HTML, CSS, JavaScript, PHP, C, Java, Python
-- 👯 **Open to:** Web Development Collaborations
-- 💬 **Ask me about:** JavaScript & Frontend Development
-- 📫 **Reach me:** urbanuskioko672@gmail.com
+### 🎯 Current Journey
+<div align="center">
+
+| 🔭 **Currently Working On** | 🌱 **Learning** | 👯 **Looking to Collaborate** |
+|:---:|:---:|:---:|
+| Personal Portfolio & Web Apps | Advanced React Patterns | Open Source Projects |
+| **💬 Ask Me About** | **📫 How to Reach Me** | **⚡ Fun Fact** |
+| JavaScript, React, Angular | urbanuskioko672@gmail.com | I debug with console.log! 😄 |
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
+## 🌈 Tech Arsenal
 
 ### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=blue)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=orange)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=darkblue)
+
+</div>
 
 ### 🎨 Frontend Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<div align="center">
 
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=red)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=darkorange)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=blue)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=teal)
+
+</div>
+
+### 🛠️ Tools & Platforms
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=red)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=blue)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=blue)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Universe
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=urbanus-hub&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urbanus-hub&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=urbanus-hub&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0,FF6B6B,4ECDC4,45B7D1,96CEB4&title_color=FFEAA7&text_color=FFFFFF&icon_color=FDCB6E"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=urbanus-hub&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=0,96CEB4,FFEAA7,DDA0DD,98D8C8&title_color=FF6B6B&text_color=2D3436"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=urbanus-hub&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=urbanus-hub&theme=highcontrast&hide_border=true&background=0,FF6B6B,4ECDC4&ring=FFEAA7&fire=FF7675&currStreakLabel=FDCB6E&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urbanus-hub&theme=radical&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urbanus-hub&bg_color=FF6B6B&color=FFFFFF&line=FFEAA7&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph&area_color=4ECDC4" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 Achievements & Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urbanus-hub&theme=solarized_dark" alt="Profile Summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=urbanus-hub&theme=solarized_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=urbanus-hub&theme=solarized_dark" alt="Most Used Language" />
 </div>
 
 ---
@@ -87,69 +132,111 @@ const urbanus = {
 
 <div align="center">
   <a href="https://github.com/urbanus-hub/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=urbanus-hub&repo=portfolio&theme=radical" alt="Portfolio Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=urbanus-hub&repo=portfolio&theme=synthwave&hide_border=true&bg_color=0,FF6B6B,4ECDC4" alt="Portfolio Repo" />
+  </a>
+  <a href="https://github.com/urbanus-hub/javascript-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=urbanus-hub&repo=javascript-projects&theme=synthwave&hide_border=true&bg_color=0,4ECDC4,96CEB4" alt="JavaScript Projects" />
   </a>
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://urbanus-hub.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:urbanuskioko672@gmail.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/urbanus.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/urbanus-kioko)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/urbanus_dev)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/urbanus-hub)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white&labelColor=4ECDC4)](https://urbanus-hub.github.io)
+[![Email](https://img.shields.io/badge/📧_Email-FF7675?style=for-the-badge&logoColor=white&labelColor=74B9FF)](mailto:urbanuskioko672@gmail.com)
+[![Dev.to](https://img.shields.io/badge/📝_Dev.to-6C5CE7?style=for-the-badge&logoColor=white&labelColor=A29BFE)](https://dev.to/urbanus.dev)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-00CEC9?style=for-the-badge&logoColor=white&labelColor=00B894)](https://linkedin.com/in/urbanus-kioko)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-FDCB6E?style=for-the-badge&logoColor=white&labelColor=E17055)](https://twitter.com/urbanus_dev)
+[![GitHub](https://img.shields.io/badge/⭐_GitHub-2D3436?style=for-the-badge&logoColor=white&labelColor=636E72)](https://github.com/urbanus-hub)
 
 </div>
 
 ---
 
-## 🎵 Spotify Playing
+## 🎵 Currently Vibing To
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" />
+  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" />
 </div>
 
 ---
 
-## 💝 Support My Work
+## 💡 Random Dev Quote
 
 <div align="center">
-  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/urbanus)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/urbanus)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/urbanus)
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming" alt="Dev Quote" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
+## 🎮 When I'm Not Coding
 
 <div align="center">
-  
-### 🐍 Contribution Snake Animation
-  
-![Snake animation](https://github.com/urbanus-hub/urbanus-hub/blob/output/github-contribution-grid-snake.svg)
+
+### 🏃‍♂️ Current Streak: Learning Something New Every Day!
+
+![Metrics](https://metrics.lecoq.io/urbanus-hub?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Africa%2FNairobi)
 
 </div>
 
 ---
 
+## 💝 Support My Journey
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Happy%20Coding!&descAlignY=51&descAlign=62" />
+  
+[![Buy Me A Coffee](https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=FF6B6B)](https://buymeacoffee.com/urbanus)
+[![PayPal](https://img.shields.io/badge/💳_PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=4ECDC4)](https://paypal.me/urbanus)
+[![Ko-Fi](https://img.shields.io/badge/🎁_Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white&labelColor=FFEAA7)](https://ko-fi.com/urbanus)
+
+</div>
+
+---
+
+## 🎊 Fun Zone
+
+<details>
+<summary>🎲 Click for a Random Joke!</summary>
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Random Dev Joke" />
+</div>
+</details>
+
+<details>
+<summary>🔮 My Coding Stats</summary>
+<div align="center">
+  
+```text
+💻 Operating Systems:
+Windows                  ███████████████░░░░░░   75%
+Linux                    ████████░░░░░░░░░░░░░   40%
+macOS                    ███░░░░░░░░░░░░░░░░░░   15%
+
+📱 Development Focus:
+Frontend                 ████████████████████   100%
+Backend                  ████████████░░░░░░░░   60%
+Mobile                   ████░░░░░░░░░░░░░░░░   20%
+```
+
+</div>
+</details>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,12,16&height=150&section=footer&text=Thanks%20for%20Stopping%20By!&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=75&desc=Let's%20Build%20Something%20Amazing%20Together!&descAlignY=88&descSize=14" />
 </div>
 
 <div align="center">
   
-**⭐ Star this repository if you found it interesting!**
-  
-Made with ❤️ by [Urbanus Kioko](https://github.com/urbanus-hub)
+### ⭐ If you like my work, consider giving it a star!
+### 🚀 Let's code the future together!
+
+**Made with 💖 and lots of ☕ by [Urbanus Kioko](https://github.com/urbanus-hub)**
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 </div>
