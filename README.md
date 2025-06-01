@@ -1,7 +1,7 @@
 # <div align="center">🌟 Welcome to My Digital Universe! 🌟</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Urbanus%20Kioko&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Kenya%20🇰🇪&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Urbanus%20Kioko&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Kenya%20🇰🇪&descAlignY=55&descSize=18" />
 </div>
 
 <div align="center">
@@ -101,16 +101,16 @@ const urbanus: Developer = {
 ## 📊 GitHub Universe
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=urbanus-hub&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0,FF6B6B,4ECDC4,45B7D1,96CEB4&title_color=FFEAA7&text_color=FFFFFF&icon_color=FDCB6E"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=urbanus-hub&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=0,96CEB4,FFEAA7,DDA0DD,98D8C8&title_color=FF6B6B&text_color=2D3436"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Urbanus-hub&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0,FF6B6B,4ECDC4,45B7D1,96CEB4&title_color=FFEAA7&text_color=FFFFFF&icon_color=FDCB6E"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Urbanus-hub&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=0,96CEB4,FFEAA7,DDA0DD,98D8C8&title_color=FF6B6B&text_color=2D3436"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=urbanus-hub&theme=highcontrast&hide_border=true&background=0,FF6B6B,4ECDC4&ring=FFEAA7&fire=FF7675&currStreakLabel=FDCB6E&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Urbanus-hub&theme=highcontrast&hide_border=true&background=0,FF6B6B,4ECDC4&ring=FFEAA7&fire=FF7675&currStreakLabel=FDCB6E&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urbanus-hub&bg_color=FF6B6B&color=FFFFFF&line=FFEAA7&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph&area_color=4ECDC4" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Urbanus-hub&bg_color=FF6B6B&color=FFFFFF&line=FFEAA7&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph&area_color=4ECDC4" alt="Contribution Graph" />
 </div>
 
 ---
@@ -118,12 +118,12 @@ const urbanus: Developer = {
 ## 🏆 Achievements & Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urbanus-hub&theme=solarized_dark" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Urbanus-hub&theme=solarized_dark" alt="Profile Summary" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=urbanus-hub&theme=solarized_dark" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=urbanus-hub&theme=solarized_dark" alt="Most Used Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Urbanus-hub&theme=solarized_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Urbanus-hub&theme=solarized_dark" alt="Most Used Language" />
 </div>
 
 ---
@@ -131,11 +131,11 @@ const urbanus: Developer = {
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Urbanus-hub/angular-learn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=urbanus-hub&repo=portfolio&theme=synthwave&hide_border=true&bg_color=0,FF6B6B,4ECDC4" alt="Olio Repo" />
+  <a href="https://github.com/urbanus-hub/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=urbanus-hub&repo=portfolio&theme=synthwave&hide_border=true&bg_color=0,FF6B6B,4ECDC4" alt="Portfolio Repo" />
   </a>
-  <a href="https://github.com/Urbanus-hub/skillMatch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=urbanus-hub&repo=javascript-projects&theme=synthwave&hide_border=true&bg_color=0,4ECDC4,96CEB4" alt="Skilmatch repo" />
+  <a href="https://github.com/urbanus-hub/javascript-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=urbanus-hub&repo=javascript-projects&theme=synthwave&hide_border=true&bg_color=0,4ECDC4,96CEB4" alt="JavaScript Projects" />
   </a>
 </div>
 
@@ -176,9 +176,31 @@ const urbanus: Developer = {
 
 <div align="center">
 
+### 🌟 My Life Beyond Code
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🚴‍♂️_Cycling-FF6B6B?style=for-the-badge&logoColor=white&labelColor=4ECDC4" alt="Cycling" />
+<br/>
+<sub><b>Weekend Adventures</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🎬_Movies-FDCB6E?style=for-the-badge&logoColor=white&labelColor=E17055" alt="Movies" />
+<br/>
+<sub><b>Silicon Valley Fan!</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/📚_Reading-74B9FF?style=for-the-badge&logoColor=white&labelColor=6C5CE7" alt="Reading" />
+<br/>
+<sub><b>Currently: Atomic Habits</b></sub>
+</td>
+</tr>
+</table>
+
 ### 🏃‍♂️ Current Streak: Learning Something New Every Day!
 
-![Metrics](https://metrics.lecoq.io/urbanus-hub?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Africa%2FNairobi)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=urbanus-hub&theme=radical&utcOffset=3" alt="Productive Time" />
 
 </div>
 
@@ -219,6 +241,12 @@ macOS                    ███░░░░░░░░░░░░░░░�
 Frontend                 ████████████████████   100%
 Backend                  ████████████░░░░░░░░   60%
 Mobile                   ████░░░░░░░░░░░░░░░░   20%
+
+🚴‍♂️ Life Balance:
+Coding                   ████████████████░░░░   80%
+Cycling                  ██████████░░░░░░░░░░   50%
+Movies (Silicon Valley)  ████████░░░░░░░░░░░░   40%
+Reading (Atomic Habits)  ██████░░░░░░░░░░░░░░   30%
 ```
 
 </div>
