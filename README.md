@@ -20,6 +20,22 @@
 
 ---
 
+## 🌅 Daily Inspiration
+
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=700&q=80" alt="Sunset over Mountains" width="500" style="border-radius: 20px;" />
+  <br/>
+  <em>🌅 "Every sunset brings the promise of a new dawn" ✨</em>
+</div>
+
+<div align="center" style="margin-top: 30px;">
+  <img src="https://images.unsplash.com/photo-1439066615861-d1af74d74000?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Peaceful Lake" width="400" style="border-radius: 15px;" />
+  <br/>
+  <em>🏞️ "Nature does not hurry, yet everything is accomplished" 🌊</em>
+</div>
+
+---
+
 ## 🎨 About Me
 
 <img align="right" alt="Coding GIF" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
@@ -159,7 +175,15 @@ const urbanus: Developer = {
 ## 🎵 Currently Vibing To
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_username" alt="Spotify Recently Played" />
+  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" width="350" />
+</div>
+
+## 🌄 Nature Escape
+
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Beautiful Mountain Landscape" width="400" />
+  <br/>
+  <em>🏔️ "The mountains are calling and I must go" - John Muir</em>
 </div>
 
 ---
@@ -199,6 +223,12 @@ const urbanus: Developer = {
 </table>
 
 ### 🏃‍♂️ Current Streak: Learning Something New Every Day!
+
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Forest Path" width="300" style="border-radius: 15px;" />
+  <br/>
+  <em>🌲 "In every walk with nature, one receives far more than they seek" 🌿</em>
+</div>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Urbanus-hub&theme=radical&utcOffset=3" alt="Productive Time" />
 
