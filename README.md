@@ -131,11 +131,11 @@ const urbanus: Developer = {
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/urbanus-hub/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=urbanus-hub&repo=portfolio&theme=synthwave&hide_border=true&bg_color=0,FF6B6B,4ECDC4" alt="Portfolio Repo" />
+  <a href="https://github.com/Urbanus-hub/angular-learn">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=urbanus-hub&repo=portfolio&theme=synthwave&hide_border=true&bg_color=0,FF6B6B,4ECDC4" alt="Olio Repo" />
   </a>
-  <a href="https://github.com/urbanus-hub/javascript-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=urbanus-hub&repo=javascript-projects&theme=synthwave&hide_border=true&bg_color=0,4ECDC4,96CEB4" alt="JavaScript Projects" />
+  <a href="https://github.com/Urbanus-hub/skillMatch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=urbanus-hub&repo=javascript-projects&theme=synthwave&hide_border=true&bg_color=0,4ECDC4,96CEB4" alt="Skilmatch repo" />
   </a>
 </div>
 
