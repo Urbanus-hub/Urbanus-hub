@@ -20,18 +20,24 @@
 
 ---
 
-## 🌅 Daily Inspiration
+## 🌌 Cosmic Inspiration
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=700&q=80" alt="Sunset over Mountains" width="500" style="border-radius: 20px;" />
+  <img src="https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&auto=format&fit=crop&w=700&q=80" alt="Aurora Borealis" width="500" style="border-radius: 25px; box-shadow: 0 8px 32px rgba(0,255,255,0.3);" />
   <br/>
-  <em>🌅 "Every sunset brings the promise of a new dawn" ✨</em>
+  <em>🌈 "The universe is not only stranger than we imagine, it is stranger than we can imagine" ✨</em>
 </div>
 
-<div align="center" style="margin-top: 30px;">
-  <img src="https://images.unsplash.com/photo-1439066615861-d1af74d74000?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Peaceful Lake" width="400" style="border-radius: 15px;" />
+<div align="center" style="margin-top: 40px;">
+  <img src="https://images.unsplash.com/photo-1502134249126-9f3755a50d78?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Nebula Space" width="450" style="border-radius: 20px; box-shadow: 0 8px 32px rgba(138,43,226,0.4);" />
   <br/>
-  <em>🏞️ "Nature does not hurry, yet everything is accomplished" 🌊</em>
+  <em>🚀 "We are all made of star stuff" - Carl Sagan 🌟</em>
+</div>
+
+<div align="center" style="margin-top: 40px;">
+  <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Ocean Waves at Sunset" width="400" style="border-radius: 20px; box-shadow: 0 8px 32px rgba(255,165,0,0.3);" />
+  <br/>
+  <em>🌊 "Be like water making its way through cracks" 💫</em>
 </div>
 
 ---
@@ -175,15 +181,9 @@ const urbanus: Developer = {
 ## 🎵 Currently Vibing To
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" width="350" />
-</div>
-
-## 🌄 Nature Escape
-
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Beautiful Mountain Landscape" width="400" />
+  <img src="https://img.shields.io/badge/🎧_Currently_Listening-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=191414" alt="Spotify" />
   <br/>
-  <em>🏔️ "The mountains are calling and I must go" - John Muir</em>
+  <em>🎶 "Music is the universal language of mankind" 🎵</em>
 </div>
 
 ---
@@ -225,9 +225,9 @@ const urbanus: Developer = {
 ### 🏃‍♂️ Current Streak: Learning Something New Every Day!
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Forest Path" width="300" style="border-radius: 15px;" />
+  <img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Galaxy and Stars" width="400" style="border-radius: 20px;" />
   <br/>
-  <em>🌲 "In every walk with nature, one receives far more than they seek" 🌿</em>
+  <em>✨ "Reach for the stars, even if you have to stand on a cactus" 🌟</em>
 </div>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Urbanus-hub&theme=radical&utcOffset=3" alt="Productive Time" />
