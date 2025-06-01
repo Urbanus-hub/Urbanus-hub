@@ -9,13 +9,13 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=urbanus-hub&label=Profile%20Views&color=blueviolet&style=for-the-badge&labelColor=ff6b6b" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/urbanus-hub?label=Followers&style=for-the-badge&color=orange&labelColor=blue" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/urbanus-hub?label=Stars&style=for-the-badge&color=yellow&labelColor=green" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Urbanus-hub&label=Profile%20Views&color=blueviolet&style=for-the-badge&labelColor=ff6b6b" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Urbanus-hub?label=Followers&style=for-the-badge&color=orange&labelColor=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Urbanus-hub?label=Stars&style=for-the-badge&color=yellow&labelColor=green" alt="GitHub Stars" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=urbanus-hub&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Urbanus-hub&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -101,8 +101,8 @@ const urbanus: Developer = {
 ## 📊 GitHub Universe
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Urbanus-hub&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0,FF6B6B,4ECDC4,45B7D1,96CEB4&title_color=FFEAA7&text_color=FFFFFF&icon_color=FDCB6E"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Urbanus-hub&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=0,96CEB4,FFEAA7,DDA0DD,98D8C8&title_color=FF6B6B&text_color=2D3436"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Urbanus-hub&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0,FF6B6B,4ECDC4,45B7D1,96CEB4&title_color=FFEAA7&text_color=FFFFFF&icon_color=FDCB6E"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urbanus-hub&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=0,96CEB4,FFEAA7,DDA0DD,98D8C8&title_color=FF6B6B&text_color=2D3436"/>
 </div>
 
 <div align="center">
@@ -131,11 +131,11 @@ const urbanus: Developer = {
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/urbanus-hub/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=urbanus-hub&repo=portfolio&theme=synthwave&hide_border=true&bg_color=0,FF6B6B,4ECDC4" alt="Portfolio Repo" />
+  <a href="https://github.com/Urbanus-hub/skillMatch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Urbanus-hub&repo=skillMatch&theme=synthwave&hide_border=true&bg_color=0,FF6B6B,4ECDC4" alt="SkillMatch Repo" />
   </a>
-  <a href="https://github.com/urbanus-hub/javascript-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=urbanus-hub&repo=javascript-projects&theme=synthwave&hide_border=true&bg_color=0,4ECDC4,96CEB4" alt="JavaScript Projects" />
+  <a href="https://github.com/Urbanus-hub/angular-learn">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Urbanus-hub&repo=angular-learn&theme=synthwave&hide_border=true&bg_color=0,4ECDC4,96CEB4" alt="Angular Learn Repo" />
   </a>
 </div>
 
@@ -150,7 +150,7 @@ const urbanus: Developer = {
 [![Dev.to](https://img.shields.io/badge/📝_Dev.to-6C5CE7?style=for-the-badge&logoColor=white&labelColor=A29BFE)](https://dev.to/urbanus.dev)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-00CEC9?style=for-the-badge&logoColor=white&labelColor=00B894)](https://linkedin.com/in/urbanus-kioko)
 [![Twitter](https://img.shields.io/badge/🐦_Twitter-FDCB6E?style=for-the-badge&logoColor=white&labelColor=E17055)](https://twitter.com/urbanus_dev)
-[![GitHub](https://img.shields.io/badge/⭐_GitHub-2D3436?style=for-the-badge&logoColor=white&labelColor=636E72)](https://github.com/urbanus-hub)
+[![GitHub](https://img.shields.io/badge/⭐_GitHub-2D3436?style=for-the-badge&logoColor=white&labelColor=636E72)](https://github.com/Urbanus-hub)
 
 </div>
 
@@ -159,7 +159,7 @@ const urbanus: Developer = {
 ## 🎵 Currently Vibing To
 
 <div align="center">
-  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_username" alt="Spotify Recently Played" />
 </div>
 
 ---
@@ -200,7 +200,7 @@ const urbanus: Developer = {
 
 ### 🏃‍♂️ Current Streak: Learning Something New Every Day!
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=urbanus-hub&theme=radical&utcOffset=3" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Urbanus-hub&theme=radical&utcOffset=3" alt="Productive Time" />
 
 </div>
 
@@ -263,7 +263,7 @@ Reading (Atomic Habits)  ██████░░░░░░░░░░░░�
 ### ⭐ If you like my work, consider giving it a star!
 ### 🚀 Let's code the future together!
 
-**Made with 💖 and lots of ☕ by [Urbanus Kioko](https://github.com/urbanus-hub)**
+**Made with 💖 and lots of ☕ by [Urbanus Kioko](https://github.com/Urbanus-hub)**
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
