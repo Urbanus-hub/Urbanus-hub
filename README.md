@@ -1,100 +1,179 @@
-# Hi there, I'm Urbanus Kioko 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Frontend+Specialist;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Urbanus%20Kioko&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=✨%20Full%20Stack%20Developer%20|%20Kenya%20🇰🇪%20✨&descAlignY=60&descSize=20" />
 </div>
 
-## 🚀 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=800&height=100&lines=🚀+Welcome+to+my+Digital+Universe!;💫+Full+Stack+Developer+%26+Innovator;🌟+Building+Tomorrow's+Web+Today;✨+Let's+Create+Magic+Together!" alt="Typing SVG" />
+</div>
 
-Full Stack Developer from Nairobi, Kenya 🇰🇪, passionate about building scalable web applications and creating seamless user experiences.
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🌟_Developer_Since-2020-FF6B9D?style=for-the-badge&labelColor=C44569&logoColor=white" />
+  <img src="https://img.shields.io/badge/💼_Based_In-Nairobi,_Kenya-4ECDC4?style=for-the-badge&labelColor=26D0CE&logoColor=white" />
+  <img src="https://img.shields.io/badge/🚀_Focus-Full_Stack-A8E6CF?style=for-the-badge&labelColor=88D8A3&logoColor=black" />
+</div>
+
+<br/>
+
+---
+
+<img align="right" alt="Coding GIF" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+### 🎨 About Me
 
 ```javascript
-const urbanus = {
-  location: "Nairobi, Kenya 🇰🇪",
-  role: "Full Stack Developer",
-  currentFocus: "Building scalable web applications",
-  languages: ["JavaScript", "TypeScript", "Java", "C"],
-  frontend: ["React", "Angular", "HTML5", "CSS3", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js"],
-  database: ["PostgreSQL"],
-  tools: ["Git", "Docker", "VS Code", "Postman"],
-  contact: "urbanuskioko672@gmail.com"
-};
+class Developer {
+  constructor() {
+    this.name = "Urbanus Kioko";
+    this.location = "🌍 Nairobi, Kenya";
+    this.title = "Full Stack Wizard";
+    this.passion = "Building digital experiences";
+    this.currentMission = "Crafting scalable web magic ✨";
+    
+    this.techStack = {
+      frontend: ["React ⚛️", "Angular 🔺", "TypeScript 💙"],
+      backend: ["Node.js 🟢", "Express.js ⚡"],
+      database: ["PostgreSQL 🐘"],
+      tools: ["Docker 🐳", "Git 🔧", "VS Code 💻"]
+    };
+    
+    this.currentlyLearning = [
+      "Advanced React Patterns",
+      "Microservices Architecture", 
+      "Cloud Technologies"
+    ];
+    
+    this.motto = "Code with passion, build with purpose! 🚀";
+  }
+  
+  getCurrentStatus() {
+    return {
+      working: "Full Stack Applications 💻",
+      learning: "Advanced React & Node.js 📚", 
+      collaborating: "Open Source Projects 🤝",
+      contact: "urbanuskioko672@gmail.com 📧"
+    };
+  }
+}
+
+const urbanus = new Developer();
+console.log(urbanus.getCurrentStatus());
 ```
 
-- 🔭 Currently working on **Full Stack Web Applications**
-- 🌱 Learning **Advanced React & Node.js**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, React, Angular, Node.js**
-- 📫 Reach me at **urbanuskioko672@gmail.com**
+<br clear="right"/>
 
-## 🛠️ Tech Stack
+---
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## 📊 GitHub Stats
+## 🌈 Tech Universe
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Urbanus-hub&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urbanus-hub&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+
+### 💻 Languages & Core Technologies
+<img src="https://skillicons.dev/icons?i=js,ts,java,c,html,css&theme=dark" />
+
+### ⚛️ Frontend Mastery
+<img src="https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap,sass,figma&theme=dark" />
+
+### ⚙️ Backend & Database Power
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,redis,graphql&theme=dark" />
+
+### 🛠️ Development Arsenal
+<img src="https://skillicons.dev/icons?i=git,docker,vscode,postman,npm,webpack&theme=dark" />
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Galaxy
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Urbanus-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6E96&text_color=FFFFFF&icon_color=FF6E96" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urbanus-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6E96&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Urbanus-hub&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Urbanus-hub&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6E96&fire=FF6E96&currStreakLabel=FF6E96" alt="GitHub Streak" />
 </div>
 
-## 🌟 Featured Projects
-
 <div align="center">
-  <a href="https://github.com/Urbanus-hub/skillMatch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Urbanus-hub&repo=skillMatch&theme=radical&hide_border=true" alt="SkillMatch" />
-  </a>
-  <a href="https://github.com/Urbanus-hub/angular-learn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Urbanus-hub&repo=angular-learn&theme=radical&hide_border=true" alt="Angular Learn" />
-  </a>
-</div>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://urbanus-hub.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:urbanuskioko672@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/urbanus-kioko)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/urbanus_dev)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Urbanus-hub&bg_color=0D1117&color=FF6E96&line=FF6E96&point=FFFFFF&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity%20Graph" alt="Contribution Graph" />
 </div>
 
 ---
 
+## 🌟 Featured Creations
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Urbanus-hub&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🎯 SkillMatch</h3>
+        <div align="center">  
+          <a href="https://github.com/Urbanus-hub/skillMatch" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Urbanus-hub&repo=skillMatch&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6E96&text_color=FFFFFF&icon_color=FF6E96" alt="SkillMatch" />
+          </a>
+          <br>
+          <br>
+          <p>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+            <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🅰️ Angular Learn</h3>
+        <div align="center">
+          <a href="https://github.com/Urbanus-hub/angular-learn" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Urbanus-hub&repo=angular-learn&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6E96&text_color=FFFFFF&icon_color=FF6E96" alt="Angular Learn" />
+          </a>
+          <br>
+          <br>
+          <p>
+            <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+            <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🤝 Let's Connect & Build Together!
+
+<div align="center">
+  <a href="https://urbanus-hub.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B9D?style=for-the-badge&logo=safari&logoColor=white&labelColor=FF6B9D&color=FF8DC7" />
+  </a>
+  <a href="mailto:urbanuskioko672@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4ECDC4&color=26D0CE" />
+  </a>
+  <a href="https://linkedin.com/in/urbanus-kioko" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-A8E6CF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=A8E6CF&color=88D8A3" />
+  </a>
+  <a href="https://twitter.com/urbanus_dev" target="_blank">
+    <img src="https://img.shields.io/badge/🐦_Twitter-87CEEB?style=for-the-badge&logo=twitter&logoColor=white&labelColor=87CEEB&color=6BB6FF" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=65&desc=Let's%20create%20something%20amazing%20together%20✨&descAlignY=80&descSize=16" />
 </div>
 
 <div align="center">
   
-### ⭐ Thanks for visiting! Let's build something amazing together! 🚀
+### 🌟 "Great things never come from comfort zones" 🚀
+
+<img src="https://komarev.com/ghpvc/?username=Urbanus-hub&label=Profile%20Views&color=FF6B9D&style=flat-square" alt="Profile Views" />
+
+**Made with 💜 and lots of ☕ by Urbanus Kioko**
 
 </div>
