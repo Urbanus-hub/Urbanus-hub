@@ -172,8 +172,8 @@ console.log(urbanus.getLifeStatus());
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Urbanus-hub&repo=contuor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=FFFFFF&icon_color=6C5CE7" alt="Contuor" />
           </a>
           <br>
-          <p><strong>🌍 Advanced Geospatial Visualization</strong><br>
-          A cutting-edge mapping application featuring interactive data visualization, real-time analytics, and beautiful cartographic representations.</p>
+          <p><strong>🌍 A web platform for interior designers</strong><br>
+          A cutting-edge interior design web application.</p>
           <p>
             <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
             <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
@@ -185,23 +185,6 @@ console.log(urbanus.getLifeStatus());
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">🅰️ Angular Mastery Hub</h3>
-        <div align="center">
-          <a href="https://github.com/Urbanus-hub/angular-learn" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Urbanus-hub&repo=angular-learn&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E84393&text_color=FFFFFF&icon_color=E84393" alt="Angular Learn" />
-          </a>
-          <br>
-          <p><strong>📚 Complete Angular Learning Ecosystem</strong><br>
-          A comprehensive resource hub featuring tutorials, best practices, and real-world examples for mastering Angular development from beginner to expert level.</p>
-          <p>
-            <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-            <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-            <img src="https://img.shields.io/badge/Tutorial-FF6B9D?style=flat-square" />
-          </p>
-        </div>
-      </td>
-      <td width="50%">
         <h3 align="center">🌐 Digital Portfolio</h3>
         <div align="center">
           <a href="https://urbanus-hub.github.io" target="_blank">
@@ -209,7 +192,7 @@ console.log(urbanus.getLifeStatus());
           </a>
           <br>
           <p><strong>✨ Interactive Personal Showcase</strong><br>
-          A modern, responsive portfolio website featuring smooth animations, interactive elements, and a comprehensive showcase of my journey and achievements.</p>
+            Coming soon....</p>
           <p>
             <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
             <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
